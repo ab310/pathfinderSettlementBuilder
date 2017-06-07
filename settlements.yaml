@@ -1,0 +1,64 @@
+---
+thorp:
+  modifiers      : -4
+  qualities      : 1
+  danger         : -10
+  base_value     : 50gp
+  purchace_limit : 500gp
+  spellcasting   : 1st
+
+hamlet:
+  modifiers      : -2
+  qualities      : 1
+  danger         : -5
+  base_value     : 200gp
+  purchace_limit : 1000gp
+  spellcasting   : 2nd
+
+village:
+  modifiers      : -1
+  qualities      : 2
+  danger         : 0
+  base_value     : 500gp
+  purchace_limit : 2500gp
+  spellcasting   : 3rd
+
+small_town:
+  modifiers      : 0
+  qualities      : 2
+  danger         : 0
+  base_value     : 1000gp
+  purchace_limit : 5000gp
+  spellcasting   : 4th
+
+large_town:
+  modifiers      : 0
+  qualities      : 3
+  danger         : 5
+  base_value     : 2000gp
+  purchace_limit : 10000gp
+  spellcasting   : 5th
+
+small_city:
+  modifiers      : +1
+  qualities      : 4
+  danger         : 5
+  base_value     : 4000gp
+  purchace_limit : 25000gp
+  spellcasting   : 6th
+
+large_city:
+  modifiers      : +2
+  qualities      : 5
+  danger         : 10
+  base_value     : 8000gp
+  purchace_limit : 50000gp
+  spellcasting   : 7th
+
+metropolis:
+  modifiers      : +4
+  qualities      : 6
+  danger         : 10
+  base_value     : 16000gp
+  purchace_limit : 100000gp
+  spellcasting   : 8th

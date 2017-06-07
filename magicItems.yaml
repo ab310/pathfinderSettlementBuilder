@@ -1,0 +1,48 @@
+---
+thorp:
+  base_value: 50gp
+  minor     : 1d4
+  medium    : none
+  major     : none
+
+hamlet:
+  base_value: 200gp
+  minor     : 1d6
+  medium    : none
+  major     : none
+
+village:
+  base_value: 500gp
+  minor     : 2d4
+  medium    : 1d4
+  major     : none
+
+small_town:
+  base_value: 1000gp
+  minor     : 3d4
+  medium    : 1d6
+  major     : none
+
+large_town:
+  base_value: 2000gp
+  minor     : 3d4
+  medium    : 2d4
+  major     : 1d4
+
+small_city:
+  base_value: 4000gp
+  minor     : 4d4
+  medium    : 3d4
+  major     : 1d6
+
+large_city:
+  base_value: 8000gp
+  minor     : 4d4
+  medium    : 3d4
+  major     : 2d4
+
+metropolis:
+  base_value: 16000gp
+  minor     : all
+  medium    : 4d4
+  major     : 3d4

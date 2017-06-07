@@ -1,0 +1,25 @@
+Pathfinder Settlement Builder
+---------------------------------
+Main menu
+    Create Settlement
+    Random Settlement
+    Exit
+Create Settlement
+    Name
+    Select Type
+        Set population
+        Random population
+    Set Modifiers for workingSettlement
+    Set Danger for workingSettlement
+    Set Qualities for workingSettlement
+    Set Base Value
+    Set Purchace Limit
+    Set Spell Casting
+    Generate Magic Items
+        Random or Set
+    
+    Select Alignment
+    Select Goverment
+    Select Qualities
+    Select Disadvantages
+    
